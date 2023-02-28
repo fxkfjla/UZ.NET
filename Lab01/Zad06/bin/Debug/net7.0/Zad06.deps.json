@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Zad06/1.0.0": {
+        "dependencies": {
+          "Zad06dll": "1.0.0"
+        },
+        "runtime": {
+          "Zad06.dll": {}
+        }
+      },
+      "Zad06dll/1.0.0": {
+        "runtime": {
+          "Zad06dll.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zad06/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Zad06dll/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

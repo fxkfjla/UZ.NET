@@ -1,0 +1,15 @@
+C:\Users\kacpe\Desktop\UZ\.NET\Lab01\Zad05\obj\Debug\net7.0\Zad05.csproj.AssemblyReference.cache
+C:\Users\kacpe\Desktop\UZ\.NET\Lab01\Zad05\obj\Debug\net7.0\Zad05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacpe\Desktop\UZ\.NET\Lab01\Zad05\obj\Debug\net7.0\Zad05.AssemblyInfoInputs.cache
+C:\Users\kacpe\Desktop\UZ\.NET\Lab01\Zad05\obj\Debug\net7.0\Zad05.AssemblyInfo.cs
+C:\Users\kacpe\Desktop\UZ\.NET\Lab01\Zad05\obj\Debug\net7.0\Zad05.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\Desktop\UZ\.NET\Lab01\Zad05\bin\Debug\net7.0\Zad05.exe
+C:\Users\kacpe\Desktop\UZ\.NET\Lab01\Zad05\bin\Debug\net7.0\Zad05.deps.json
+C:\Users\kacpe\Desktop\UZ\.NET\Lab01\Zad05\bin\Debug\net7.0\Zad05.runtimeconfig.json
+C:\Users\kacpe\Desktop\UZ\.NET\Lab01\Zad05\bin\Debug\net7.0\Zad05.dll
+C:\Users\kacpe\Desktop\UZ\.NET\Lab01\Zad05\bin\Debug\net7.0\Zad05.pdb
+C:\Users\kacpe\Desktop\UZ\.NET\Lab01\Zad05\obj\Debug\net7.0\Zad05.dll
+C:\Users\kacpe\Desktop\UZ\.NET\Lab01\Zad05\obj\Debug\net7.0\refint\Zad05.dll
+C:\Users\kacpe\Desktop\UZ\.NET\Lab01\Zad05\obj\Debug\net7.0\Zad05.pdb
+C:\Users\kacpe\Desktop\UZ\.NET\Lab01\Zad05\obj\Debug\net7.0\Zad05.genruntimeconfig.cache
+C:\Users\kacpe\Desktop\UZ\.NET\Lab01\Zad05\obj\Debug\net7.0\ref\Zad05.dll

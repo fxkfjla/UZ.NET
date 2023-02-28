@@ -1,0 +1,12 @@
+C:\Users\kacpe\Desktop\UZ\.NET\Lab01\zad06dll\bin\Zad06dll.deps.json
+C:\Users\kacpe\Desktop\UZ\.NET\Lab01\zad06dll\bin\Zad06dll.dll
+C:\Users\kacpe\Desktop\UZ\.NET\Lab01\zad06dll\bin\Zad06dll.pdb
+C:\Users\kacpe\Desktop\UZ\.NET\Lab01\zad06dll\obj\Release\net7.0\Zad06dll.csproj.AssemblyReference.cache
+C:\Users\kacpe\Desktop\UZ\.NET\Lab01\zad06dll\obj\Release\net7.0\Zad06dll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacpe\Desktop\UZ\.NET\Lab01\zad06dll\obj\Release\net7.0\Zad06dll.AssemblyInfoInputs.cache
+C:\Users\kacpe\Desktop\UZ\.NET\Lab01\zad06dll\obj\Release\net7.0\Zad06dll.AssemblyInfo.cs
+C:\Users\kacpe\Desktop\UZ\.NET\Lab01\zad06dll\obj\Release\net7.0\Zad06dll.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\Desktop\UZ\.NET\Lab01\zad06dll\obj\Release\net7.0\Zad06dll.dll
+C:\Users\kacpe\Desktop\UZ\.NET\Lab01\zad06dll\obj\Release\net7.0\refint\Zad06dll.dll
+C:\Users\kacpe\Desktop\UZ\.NET\Lab01\zad06dll\obj\Release\net7.0\Zad06dll.pdb
+C:\Users\kacpe\Desktop\UZ\.NET\Lab01\zad06dll\obj\Release\net7.0\ref\Zad06dll.dll
